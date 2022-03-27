@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Yan, welcome to my profile!
+### Hi there 👋 my name is Yan, welcome to my profile!
 
 - At moment i'm Technician Support Analyst
 - Studyng C# to become a Back-End Developer
