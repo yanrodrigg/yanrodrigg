@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Yan, welcome to my profile!
 
 - At moment i'm Technician Support Analyst
-- Studyng to become a Front-End Developer.
+- Studyng to become a Full-Stack Developer.
 - Pronouns: He/Him
 
 <div style="display: inline_block"><br>
